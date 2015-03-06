@@ -1,4 +1,4 @@
-# atom-shortcuts
+# Atom shortcuts
 
 | Task         | Keys                     |
 |--------------|--------------------------|
